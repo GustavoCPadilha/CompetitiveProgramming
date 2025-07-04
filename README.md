@@ -1,7 +1,7 @@
 # 🏆 Competitive Programming
 
 Este repositório reúne meus estudos e soluções voltados para **Programação Competitiva**, com foco em lógica, algoritmos e estruturas de dados.  
-Aqui compartilho códigos, anotações e exercícios de plataformas como **beecrowd**, **HackerRank**, **Codeforces** e outros.
+Aqui compartilho códigos, anotações e exercícios de plataformas como **beecrowd**.
 
 ---
 
@@ -17,9 +17,7 @@ Aqui compartilho códigos, anotações e exercícios de plataformas como **beecr
 ## ⚡ Tecnologias e Linguagens Utilizadas
 
 - **C**  
-- **C++**  
-- **Python**  
-- (Outras podem ser adicionadas conforme o avanço dos estudos)  
+- **Java**  
 
 ---
 
