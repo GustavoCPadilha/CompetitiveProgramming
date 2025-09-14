@@ -16,7 +16,9 @@ Aqui compartilho códigos, anotações e exercícios de plataformas como **beecr
 
 ## ⚡ Tecnologias e Linguagens Utilizadas
 
-- **C**  
+- **C**
+- **Java**  
+
 
 ---
 
