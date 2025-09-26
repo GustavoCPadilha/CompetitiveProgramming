@@ -1,6 +1,6 @@
 # 💻 beecrowd - Exercícios
 
-Esta pasta contém minhas soluções para os exercícios da plataforma **beecrowd**, utilizando principalmente a linguagem **C**.  
+Esta pasta contém minhas soluções para os exercícios da plataforma **beecrowd**, utilizando principalmente a linguagem **C** e **Java**.  
 Os problemas resolvidos aqui fazem parte da minha preparação e prática em lógica de programação e algoritmos.
 
 ---
@@ -8,7 +8,7 @@ Os problemas resolvidos aqui fazem parte da minha preparação e prática em ló
 ## 🎯 Objetivos desta pasta
 
 - Resolver exercícios de diferentes níveis do beecrowd.  
-- Reforçar a prática de programação em **C**.  
+- Reforçar a prática de programação em **C** e **Java**.  
 - Organizar o progresso e facilitar a revisão dos códigos.  
 
 ---
