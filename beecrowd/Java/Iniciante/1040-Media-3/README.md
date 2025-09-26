@@ -63,10 +63,3 @@ Media final: 5.9
 **Saída**  
 Media: 7.3  
 Aluno aprovado.
-
-## Observações
-
-- Utilize a fórmula da média ponderada para calcular a média inicial.  
-- O cálculo da média final só é necessário se o aluno estiver em exame.  
-- Todas as notas e médias devem ser exibidas com **uma casa decimal**, mesmo que o valor seja inteiro.  
-- Este problema testa condicionais, cálculos com ponto flutuante e formatação de saída.
